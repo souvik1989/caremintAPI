@@ -1,0 +1,2 @@
+[09-Aug-2023 18:54:14 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/caremint3raredyn/public_html/vendor/composer/platform_check.php on line 24
+[31-May-2024 12:34:54 Asia/Kolkata] PHP Fatal error:  Cannot use App\Http\Controllers\Controller as Controller because the name is already in use in /home/caremint/public_html/admindashboard.caremint.in/app/Http/Controllers/Api/TaskController.php on line 7
